@@ -1,5 +1,6 @@
 # Wuwa Texcoord & Color
-Automatically Set TEXCOORD.xy and COLOR in blender model attributes for easier wuwa modding
+Automatically Set TEXCOORD.xy and COLOR in blender model attributes for easier wuwa modding <br><br>
+Menu location : Side Menu (N) > Tool > Wuwa Tools
 <br>
 ## Functions
 
