@@ -1,4 +1,4 @@
-# Wuwa-Color-Texcoord-BlenderAddon
+# Wuwa Texcoord & Color
 Automatically Set TEXCOORD.xy and COLOR in blender model attributes for easier wuwa modding
 <br>
 ## Functions
